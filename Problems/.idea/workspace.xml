@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9377040-0348-42eb-89ab-7b66aec49fe2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructure/BinrayTree/inorderTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/BinrayTree/isSymmetric.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/BinrayTree/levelorderTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/BinrayTree/maxDepth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/BinrayTree/postorderTraversal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566359785643</updated>
-      <workItem from="1566359794419" duration="3627000" />
+      <workItem from="1566359794419" duration="6187000" />
     </task>
     <servers />
   </component>
