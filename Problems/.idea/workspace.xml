@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9377040-0348-42eb-89ab-7b66aec49fe2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructure/BinrayTree/isSymmetric.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/BinrayTree/levelorderTraversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/BinrayTree/maxDepth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/BinrayTree/postorderTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/BinrayTree/hasPathSum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,10 +32,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/DataStructure/BinrayTree" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/DataStructure/BinrayTree" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/DataStructure/BinrayTree" />
     </key>
   </component>
@@ -94,6 +91,8 @@
       <option name="presentableId" value="Default" />
       <updated>1566359785643</updated>
       <workItem from="1566359794419" duration="6187000" />
+      <workItem from="1566967990445" duration="36000" />
+      <workItem from="1566968068921" duration="1641000" />
     </task>
     <servers />
   </component>
@@ -105,7 +104,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
